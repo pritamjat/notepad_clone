@@ -7,7 +7,7 @@ This is a lightweight Notepad application created with Python and Tkinter.
 - Open, save, and create new text files
 
 ## Installation
-1. Go to the [Releases](https://github.com/pritamjat/notepad/releases) page.
+1. Go to the [Releases]([https://github.com/pritamjat/notepad/releases](https://github.com/pritamjat/notepad_clone/releases/tag/v1.0)) page.
 2. Download the latest version of `simple.exe`.
 
 ## Usage
